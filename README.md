@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
+  <a href="https://github.com/Physics-Morris/Particle-in-Cells-ES1D1V">
     <img src="https://github.com/Physics-Morris/Particle-in-Cells-ES1D1V/blob/main/figures/video/0499.png" alt="Logo" width="80" height="80">
   </a>
 

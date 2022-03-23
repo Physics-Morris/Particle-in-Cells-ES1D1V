@@ -18,8 +18,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://github.com/Physics-Morris/Particle-in-Cells-ES1D1V/blob/main/figures/video/0499.png)
-
 This is a 1 dimensional particle-in-cell simulation code written in Fortran 90 standard. The validalty of the code is tested with two stream instability theory of plasma.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
